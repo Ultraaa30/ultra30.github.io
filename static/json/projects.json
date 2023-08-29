@@ -1,0 +1,17 @@
+{
+
+    "projects": [{
+        "title": "LK SUPPLIER (soon)",
+        "githubURL": "https://github.com/Ultraaa30",
+        "testURL": "https://github.com/Ultraaa30",
+        "downloadURL": "",
+        "imageURL": "",
+        "descItems": [{
+                "text": "1/09/2023"
+            },
+            {
+                "text": "<small>v.0.1</small>"
+            }
+        ]
+    }]
+}
